@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**rakshitha-2012/rakshitha-2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there, I'm Rakshitha! 👋
+🎓 Third-Year Computer Science Engineering Student
+💻 Aspiring Software Developer | Full-Stack Development Enthusiast
+🌱 Currently learning Node.js and Express.js
+💡 Interested in Web Development and Software Engineering
+🧩 Practicing problem-solving with LeetCode
+🚀 Building projects and learning new technologies
+🛠️ Technical Skills
+Languages: Python, JavaScript
+Frontend: HTML, CSS
+Database: MySQL
+Currently Learning: Node.js, Express.js
+⭐ Always learning, always building, and growing as a developer!
